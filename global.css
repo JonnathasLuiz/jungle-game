@@ -1,0 +1,23 @@
+#map{
+    border: solid blue 1px;
+}
+
+.water-ground{
+    background-color: aqua;
+}
+
+.grass-ground{
+    background-color: green;
+}
+
+.rock-ground{
+    background-color: burlywood;
+}
+
+.animal{
+    width: 8px;
+    height: 8px;
+    margin: 1px;
+    border-radius: 4px;
+    background-color: blueviolet;
+}
